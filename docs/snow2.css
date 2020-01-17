@@ -1,0 +1,36 @@
+h2 {
+  color: maroon;
+}
+h1 {
+  font-family: cursive;
+  color: BLACK;
+}
+p {
+  font-style: italic;
+}
+li {
+  font-style: bold;
+}
+rect {
+  fill: green;
+}
+
+circle {
+  fill: white;
+  stroke: black;
+}
+text {
+  color: green;
+}
+circle.special {
+  fill: black;
+}
+rect.hat {
+  fill: black;
+}
+rect.hat1 {
+  fill: red;
+}
+rect.special {
+  fill: blue;
+}
